@@ -1,0 +1,4 @@
+python-tomli source: file-without-copyright-information
+python-tomli source: no-debian-changes
+python-tomli source: source-contains-prebuilt-windows-binary
+python-tomli source: source-package-encodes-python-version
